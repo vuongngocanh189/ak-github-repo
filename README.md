@@ -1,2 +1,2 @@
-# ak-github-repo
-A simple wordpress plugin to get github repo list to widget
+# AK Github Repo for Wordpress
+A simple wordpress plugin to get github repo list as a widget
